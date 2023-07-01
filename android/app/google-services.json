@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223208187460",
+    "firebase_url": "https://sensoresp-e642d-default-rtdb.firebaseio.com",
+    "project_id": "sensoresp-e642d",
+    "storage_bucket": "sensoresp-e642d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223208187460:android:4439b76fbfcc26b9253e11",
+        "android_client_info": {
+          "package_name": "com.example.sensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223208187460-evhitmkk2qi9gr0b0fkbmg8rfpbn0lq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoRT1WwUaZee4PTzKa_cQLvVYNZxmqHUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223208187460-evhitmkk2qi9gr0b0fkbmg8rfpbn0lq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
